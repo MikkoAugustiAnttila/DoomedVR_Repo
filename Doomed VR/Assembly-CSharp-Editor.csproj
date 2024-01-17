@@ -743,11 +743,11 @@
      <Reference Include="Unity.Burst">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEngine.XR.LegacyInputHelpers">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
@@ -758,11 +758,11 @@
      <Reference Include="Unity.ShaderGraph.Editor">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEditor.SpatialTracking">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualStudio.Editor">
+     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -773,14 +773,14 @@
      <Reference Include="UnityEngine.SpatialTracking">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.XR.LegacyInputHelpers">
      <HintPath>C:\Users\mikko\Documents\UnityGames\DoomedVR_Repo\Doomed VR\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
