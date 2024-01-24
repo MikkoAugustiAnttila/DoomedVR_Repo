@@ -46,9 +46,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-     <Compile Include="Assets\multiscreenManager.cs" />
      <Compile Include="Assets\playerMovement.cs" />
      <Compile Include="Assets\mouseLook.cs" />
+     <Compile Include="Assets\CustomInteractionManager.cs" />
+     <Compile Include="Assets\WeaponController.cs" />
      <Compile Include="Assets\rocketController.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Art" />
