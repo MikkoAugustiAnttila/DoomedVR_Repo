@@ -8,7 +8,7 @@ public class multiscreenManager : MonoBehaviour
     {
         if (Display.displays.Length > 1)
         {
-            Display.displays[1].Activate(Display.displays[1].renderingWidth, Display.displays[1].renderingHeight, Screen.currentResolution.refreshRateRatio);
+            //Display.displays[1].Activate(Display.displays[1].renderingWidth, Display.displays[1].renderingHeight, Screen.currentResolution.refreshRateRatio);
         }
         else
         {
